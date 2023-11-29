@@ -29,8 +29,8 @@ First approach (compare GPT2 base model and small model using Trainer of hugging
    
 4. we can implement our own train and evaluate method: follow the instructions given here:   https://colab.research.google.com/github/gmihaila/ml_things/blob/master/notebooks/pytorch/gpt2_finetune_classification.ipynb (Model 3 and Model 4, using gpt2 and distil-gpt2)
 
- 5. error analysis  
- 6. cognitive interpretation
+5. error analysis  
+6. cognitive interpretation
     
 Second approach (compare GPT2 base model and small model vs BERT Base and small model):
 
@@ -42,6 +42,6 @@ Second approach (compare GPT2 base model and small model vs BERT Base and small 
    
 4. Model 3: BERT base model
 4.1 Model 4: BERT small model (distil-uncased-bert)
-
- 5. error analysis  
- 6. cognitive interpretation
+   
+5. error analysis  
+6. cognitive interpretation
