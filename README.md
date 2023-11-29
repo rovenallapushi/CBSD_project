@@ -17,7 +17,7 @@ domain corpus for detecting deception in typed text. In Proceedings of the 12th 
 
 
 
-Task ideas, summarizing what is already written in the notebook (to be updates, based on prof feedback):
+Task ideas, summarizing what is already written in the notebook (to be updated, based on prof feedback):
 
 1. add a summary describing the datset and the problem (what is written in the paper)
 2. do a diagram of how GPT-X works
