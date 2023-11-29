@@ -21,7 +21,7 @@ Task ideas, summarizing what is already written in the notebook (to be updates, 
 
 1. add a summary describing the datset and the problem (what is written in the paper)
 2. do a diagram of how GPT-X works
-3. understand better the model behaviour when uring Trainer method from hugging face (ask the prof if the methodology is right)  Describe the methodology and motivate the choice
+3. understand better the model behaviour when uring Trainer method from hugging face (ask the prof if the methodology is right)  Describe the methodology and motivate the choice          assigned to: Rovena
    
        3.1 try with smaller model (distil-gpt2)
    
