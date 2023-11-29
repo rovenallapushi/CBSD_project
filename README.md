@@ -9,6 +9,9 @@ Project participiants:
 
 DATASET:
 
+This dataset is being used in scope of the course project. 
+Capuozzo, P., Lauriola, I., Strapparava, C., Aiolli, F., & Sartori, G. DecOp: A multilingual and multi-
+domain corpus for detecting deception in typed text. In Proceedings of the 12th Language Resources and Evaluation Conference, 1423-1430, (2020, May)
 
 
 
