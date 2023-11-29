@@ -22,7 +22,9 @@ Task ideas, summarizing what is already written in the notebook (to be updates, 
 1. add a summary describing the datset and the problem (what is written in the paper)
 2. do a diagram of how GPT-X works
 3. understand better the model behavious when uring Trainer method from hugging face
+   
        3.1 try with smaller model (distil-gpt2)
+   
 4. we can implement our own train and evaluate method: follow the instructions given here:   https://colab.research.google.com/github/gmihaila/ml_things/blob/master/notebooks/pytorch/gpt2_finetune_classification.ipynb
 
 After we get feedback:
