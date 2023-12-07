@@ -21,7 +21,14 @@ Task ideas, summarizing what is already written in the notebook (to be updated, 
 
 1. add a summary describing the dataset and the problem (what is written in the paper)
 2. do a diagram of how GPT-3.5 works
-3. Model GPT 3.5 - 3 fold cross-validation 3 epoch each NOTE (the cost we spent is for the same fine-tuning structure)
+
+   some ideas:
+
+   https://iq.opengenus.org/gpt-3-5-model/
+   
+
+   
+4. Model GPT 3.5 - 3 fold cross-validation 3 epoch each NOTE (the cost we spent is for the same fine-tuning structure)
    
    Some useful resources:
    
