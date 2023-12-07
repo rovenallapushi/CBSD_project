@@ -23,7 +23,6 @@ Task ideas, summarizing what is already written in the notebook (to be updated, 
 2. do a diagram of how GPT-3.5 works
 
    some ideas:
-
    https://iq.opengenus.org/gpt-3-5-model/
    
 
